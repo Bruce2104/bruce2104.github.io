@@ -5,5 +5,10 @@ h1 {
 }
 
 p {
-  
+  font-size: small;
+}
+
+.menu {
+  position: absolute;
+  width: 50px;
 }
